@@ -1,0 +1,7 @@
+T1 AspectCategory 0 112 زخمیوں میں پانچ سے زائد افراد کی حالت نازک ہے جس کے باعث ہلاکتوں میں اضافے کے امکان کو نظر انداز نہیں کیا جاسکتا
+A1 Category T1 Killing
+A2 CategoryPolarity T1 Negative
+T2 AspectTerm 0 6  زخمیوں
+A3 AspectTermPolarity T2 Negative
+T3 AspectTerm 57 64     ہلاکتوں
+A4 AspectTermPolarity T3 Negative

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<root>
+<sentence id="1">
+<text>زخمیوں میں پانچ سے زائد افراد کی حالت نازک ہے جس کے باعث ہلاکتوں میں اضافے کے امکان کو نظر انداز نہیں کیا جاسکتا </text>
+<aspectCategories>
+<aspectCategory category="Killing" polarity="Negative"/>
+</aspectCategories>
+<aspectTerm>
+<aspectTerms from="0" polarity="Negative" term="زخمیوں " to="6"/>
+<aspectTerms from="57" polarity="Negative" term="ہلاکتوں " to="64"/>
+</aspectTerm>
+</sentence>
+</root>
